@@ -1,6 +1,6 @@
 # human resource analysis
 
-- Source notebook: `/human resource analysis.ipynb`
+- Source notebook: `./human resource analysis.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

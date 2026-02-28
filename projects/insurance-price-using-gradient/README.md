@@ -1,6 +1,6 @@
 # insurance price using gradient
 
-- Source notebook: `/insurance price using gradient.ipynb`
+- Source notebook: `./insurance price using gradient.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

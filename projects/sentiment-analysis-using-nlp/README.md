@@ -1,6 +1,6 @@
-# movie recomendation
+# sentiment analysis using nlp
 
-- Source notebook: `/movie recomendation.ipynb`
+- Source notebook: `./sentiment analysis using nlp.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

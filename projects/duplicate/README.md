@@ -1,6 +1,6 @@
 # duplicate
 
-- Source notebook: `/duplicate.ipynb`
+- Source notebook: `./duplicate.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

@@ -1,6 +1,6 @@
 # president debate
 
-- Source notebook: `/president debate.ipynb`
+- Source notebook: `./president debate.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

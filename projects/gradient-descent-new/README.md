@@ -1,6 +1,6 @@
 # gradient descent new
 
-- Source notebook: `/gradient descent new.ipynb`
+- Source notebook: `./gradient descent new.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

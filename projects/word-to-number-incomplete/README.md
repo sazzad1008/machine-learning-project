@@ -1,6 +1,6 @@
 # word to number incomplete
 
-- Source notebook: `/word to number incomplete.ipynb`
+- Source notebook: `./word to number incomplete.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

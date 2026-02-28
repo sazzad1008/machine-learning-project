@@ -1,6 +1,6 @@
 # toxicity analysis
 
-- Source notebook: `/toxicity analysis.ipynb`
+- Source notebook: `./toxicity analysis.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

@@ -1,6 +1,6 @@
 # multi
 
-- Source notebook: `/multi.ipynb`
+- Source notebook: `./multi.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

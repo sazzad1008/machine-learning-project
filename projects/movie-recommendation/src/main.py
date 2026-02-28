@@ -1,10 +1,10 @@
 """
-Python entrypoint scaffold generated from notebook: movie recomendation.ipynb
+Python entrypoint scaffold generated from notebook: movie recommendation.ipynb
 """
 
 def main() -> None:
     """Run this project entrypoint."""
-    print("Run notebook logic from: movie recomendation.ipynb")
+    print("Run notebook logic from: movie recommendation.ipynb")
 
 
 if __name__ == "__main__":

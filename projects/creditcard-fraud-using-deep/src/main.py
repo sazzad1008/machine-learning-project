@@ -1,10 +1,10 @@
 """
-Python entrypoint scaffold generated from notebook: creditcard fraud uing deep .ipynb
+Python entrypoint scaffold generated from notebook: creditcard fraud using deep.ipynb
 """
 
 def main() -> None:
     """Run this project entrypoint."""
-    print("Run notebook logic from: creditcard fraud uing deep .ipynb")
+    print("Run notebook logic from: creditcard fraud using deep.ipynb")
 
 
 if __name__ == "__main__":

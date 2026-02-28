@@ -1,6 +1,6 @@
 # IRIS DATA using Random forest
 
-- Source notebook: `/IRIS DATA using Random forest.ipynb`
+- Source notebook: `./IRIS DATA using Random forest.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

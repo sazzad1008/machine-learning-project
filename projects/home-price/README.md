@@ -1,6 +1,6 @@
 # home price
 
-- Source notebook: `/home price.ipynb`
+- Source notebook: `./home price.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

@@ -1,10 +1,10 @@
 """
-Python entrypoint scaffold generated from notebook: cat pic predict using deep lerning.ipynb
+Python entrypoint scaffold generated from notebook: cat pic predict using deep learning.ipynb
 """
 
 def main() -> None:
     """Run this project entrypoint."""
-    print("Run notebook logic from: cat pic predict using deep lerning.ipynb")
+    print("Run notebook logic from: cat pic predict using deep learning.ipynb")
 
 
 if __name__ == "__main__":

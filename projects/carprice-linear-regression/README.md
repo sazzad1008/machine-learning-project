@@ -1,6 +1,6 @@
 # carprice linear regression
 
-- Source notebook: `/carprice linear regression.ipynb`
+- Source notebook: `./carprice linear regression.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

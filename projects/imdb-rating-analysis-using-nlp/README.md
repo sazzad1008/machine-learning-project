@@ -1,6 +1,6 @@
 # imdb rating analysis using nlp
 
-- Source notebook: `/imdb rating analysis using nlp.ipynb`
+- Source notebook: `./imdb rating analysis using nlp.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

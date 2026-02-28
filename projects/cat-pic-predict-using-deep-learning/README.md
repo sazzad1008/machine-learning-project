@@ -1,6 +1,6 @@
-# face classifiction
+# cat pic predict using deep learning
 
-- Source notebook: `/face classifiction.ipynb`
+- Source notebook: `./cat pic predict using deep learning.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

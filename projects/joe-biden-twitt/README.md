@@ -1,6 +1,6 @@
 # joe biden twitt
 
-- Source notebook: `/joe biden twitt.ipynb`
+- Source notebook: `./joe biden twitt.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

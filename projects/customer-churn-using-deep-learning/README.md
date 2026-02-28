@@ -1,6 +1,6 @@
 # customer churn using deep learning
 
-- Source notebook: `/customer churn using deep learning.ipynb`
+- Source notebook: `./customer churn using deep learning.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

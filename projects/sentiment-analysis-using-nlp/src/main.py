@@ -1,10 +1,10 @@
 """
-Python entrypoint scaffold generated from notebook: setiment analysis using nlp.ipynb
+Python entrypoint scaffold generated from notebook: sentiment analysis using nlp.ipynb
 """
 
 def main() -> None:
     """Run this project entrypoint."""
-    print("Run notebook logic from: setiment analysis using nlp.ipynb")
+    print("Run notebook logic from: sentiment analysis using nlp.ipynb")
 
 
 if __name__ == "__main__":

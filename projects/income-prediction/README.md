@@ -1,6 +1,6 @@
 # Income prediction
 
-- Source notebook: `/Income prediction.ipynb`
+- Source notebook: `./Income prediction.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

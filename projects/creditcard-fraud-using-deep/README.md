@@ -1,6 +1,6 @@
-# setiment analysis using nlp
+# creditcard fraud using deep
 
-- Source notebook: `/setiment analysis using nlp.ipynb`
+- Source notebook: `./creditcard fraud using deep.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

@@ -1,6 +1,6 @@
 # email spam
 
-- Source notebook: `/email spam.ipynb`
+- Source notebook: `./email spam.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

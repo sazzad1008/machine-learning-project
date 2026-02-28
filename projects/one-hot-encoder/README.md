@@ -1,6 +1,6 @@
 # one hot encoder
 
-- Source notebook: `/one hot encoder.ipynb`
+- Source notebook: `./one hot encoder.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

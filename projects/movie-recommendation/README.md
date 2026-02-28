@@ -1,6 +1,6 @@
-# cat pic predict using deep lerning
+# movie recommendation
 
-- Source notebook: `/cat pic predict using deep lerning.ipynb`
+- Source notebook: `./movie recommendation.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

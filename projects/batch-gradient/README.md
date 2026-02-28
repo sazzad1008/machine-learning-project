@@ -1,6 +1,6 @@
 # batch gradient
 
-- Source notebook: `/batch gradient.ipynb`
+- Source notebook: `./batch gradient.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

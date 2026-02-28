@@ -1,6 +1,6 @@
 # classificationcopy
 
-- Source notebook: `/classificationcopy.ipynb`
+- Source notebook: `./classificationcopy.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

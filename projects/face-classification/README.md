@@ -1,6 +1,6 @@
-# creditcard fraud uing deep 
+# face classification
 
-- Source notebook: `/creditcard fraud uing deep .ipynb`
+- Source notebook: `./face classification.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

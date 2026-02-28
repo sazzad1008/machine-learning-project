@@ -1,10 +1,10 @@
 """
-Python entrypoint scaffold generated from notebook: face classifiction.ipynb
+Python entrypoint scaffold generated from notebook: face classification.ipynb
 """
 
 def main() -> None:
     """Run this project entrypoint."""
-    print("Run notebook logic from: face classifiction.ipynb")
+    print("Run notebook logic from: face classification.ipynb")
 
 
 if __name__ == "__main__":

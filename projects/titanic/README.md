@@ -1,6 +1,6 @@
 # titanic
 
-- Source notebook: `/titanic.ipynb`
+- Source notebook: `./titanic.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

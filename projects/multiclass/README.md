@@ -1,6 +1,6 @@
 # multiclass
 
-- Source notebook: `/multiclass.ipynb`
+- Source notebook: `./multiclass.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run

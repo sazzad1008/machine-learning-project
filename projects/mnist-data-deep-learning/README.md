@@ -1,6 +1,6 @@
 # mnist data deep learning
 
-- Source notebook: `/mnist data deep learning.ipynb`
+- Source notebook: `./mnist data deep learning.ipynb`
 - Python entrypoint: `src/main.py`
 
 ## Run
